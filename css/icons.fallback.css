@@ -1,0 +1,76 @@
+.payment-option--affirm { background-image: url('../../images/grunticons/fallback_pngs/affirm.png'); background-repeat: no-repeat; }
+
+.payment-option--amex-type { background-image: url('../../images/grunticons/fallback_pngs/amex-type.png'); background-repeat: no-repeat; }
+
+.payment-option--amex { background-image: url('../../images/grunticons/fallback_pngs/amex.png'); background-repeat: no-repeat; }
+
+.payment-option--android_pay { background-image: url('../../images/grunticons/fallback_pngs/android_pay.png'); background-repeat: no-repeat; }
+
+.payment-option--apple_pay { background-image: url('../../images/grunticons/fallback_pngs/apple_pay.png'); background-repeat: no-repeat; }
+
+.payment-option--boleto { background-image: url('../../images/grunticons/fallback_pngs/boleto.png'); background-repeat: no-repeat; }
+
+.payment-option--boleto_bancario { background-image: url('../../images/grunticons/fallback_pngs/boleto_bancario.png'); background-repeat: no-repeat; }
+
+.payment-option--cash { background-image: url('../../images/grunticons/fallback_pngs/cash.png'); background-repeat: no-repeat; }
+
+.payment-option--check { background-image: url('../../images/grunticons/fallback_pngs/check.png'); background-repeat: no-repeat; }
+
+.payment-option--credit_card { background-image: url('../../images/grunticons/fallback_pngs/credit_card.png'); background-repeat: no-repeat; }
+
+.payment-option--default-card { background-image: url('../../images/grunticons/fallback_pngs/default-card.png'); background-repeat: no-repeat; }
+
+.payment-option--direct-debit { background-image: url('../../images/grunticons/fallback_pngs/direct-debit.png'); background-repeat: no-repeat; }
+
+.payment-option--discover { background-image: url('../../images/grunticons/fallback_pngs/discover.png'); background-repeat: no-repeat; }
+
+.payment-option--elo { background-image: url('../../images/grunticons/fallback_pngs/elo.png'); background-repeat: no-repeat; }
+
+.payment-option--googlewallet { background-image: url('../../images/grunticons/fallback_pngs/googlewallet.png'); background-repeat: no-repeat; }
+
+.payment-option--hipercard { background-image: url('../../images/grunticons/fallback_pngs/hipercard.png'); background-repeat: no-repeat; }
+
+.payment-option--ideal { background-image: url('../../images/grunticons/fallback_pngs/ideal.png'); background-repeat: no-repeat; }
+
+.payment-option--invoice { background-image: url('../../images/grunticons/fallback_pngs/invoice.png'); background-repeat: no-repeat; }
+
+.payment-option--jcb { background-image: url('../../images/grunticons/fallback_pngs/jcb.png'); background-repeat: no-repeat; }
+
+.payment-option--maestro { background-image: url('../../images/grunticons/fallback_pngs/maestro.png'); background-repeat: no-repeat; }
+
+.payment-option--maestro_bancontact { background-image: url('../../images/grunticons/fallback_pngs/maestro_bancontact.png'); background-repeat: no-repeat; }
+
+.payment-option--mastercard { background-image: url('../../images/grunticons/fallback_pngs/mastercard.png'); background-repeat: no-repeat; }
+
+.payment-option--mercado_pago { background-image: url('../../images/grunticons/fallback_pngs/mercado_pago.png'); background-repeat: no-repeat; }
+
+.payment-option--moneris { background-image: url('../../images/grunticons/fallback_pngs/moneris.png'); background-repeat: no-repeat; }
+
+.payment-option--naranja { background-image: url('../../images/grunticons/fallback_pngs/naranja.png'); background-repeat: no-repeat; }
+
+.payment-option--nativa { background-image: url('../../images/grunticons/fallback_pngs/nativa.png'); background-repeat: no-repeat; }
+
+.payment-option--offline { background-image: url('../../images/grunticons/fallback_pngs/offline.png'); background-repeat: no-repeat; }
+
+.payment-option--oxxo { background-image: url('../../images/grunticons/fallback_pngs/oxxo.png'); background-repeat: no-repeat; }
+
+.payment-option--pagofacil { background-image: url('../../images/grunticons/fallback_pngs/pagofacil.png'); background-repeat: no-repeat; }
+
+.payment-option--paypal { background-image: url('../../images/grunticons/fallback_pngs/paypal.png'); background-repeat: no-repeat; }
+
+.payment-option--paypal_bank { background-image: url('../../images/grunticons/fallback_pngs/paypal_bank.png'); background-repeat: no-repeat; }
+
+.payment-option--rapipago { background-image: url('../../images/grunticons/fallback_pngs/rapipago.png'); background-repeat: no-repeat; }
+
+.payment-option--sepa { background-image: url('../../images/grunticons/fallback_pngs/sepa.png'); background-repeat: no-repeat; }
+
+.payment-option--sepa_direct_debit { background-image: url('../../images/grunticons/fallback_pngs/sepa_direct_debit.png'); background-repeat: no-repeat; }
+
+.payment-option--sofort { background-image: url('../../images/grunticons/fallback_pngs/sofort.png'); background-repeat: no-repeat; }
+
+.payment-option--visa { background-image: url('../../images/grunticons/fallback_pngs/visa.png'); background-repeat: no-repeat; }
+
+.payment-option--visa_debit { background-image: url('../../images/grunticons/fallback_pngs/visa_debit.png'); background-repeat: no-repeat; }
+
+.payment-option--wallet { background-image: url('../../images/grunticons/fallback_pngs/wallet.png'); background-repeat: no-repeat; }
+
